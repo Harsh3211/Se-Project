@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "746422741834",
+    "project_id": "text-recognition-98afd",
+    "storage_bucket": "text-recognition-98afd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:746422741834:android:adc95664ed6e89f58e2fb3",
+        "android_client_info": {
+          "package_name": "com.harsh.flutter_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "746422741834-hg6a95f3umu9j3k3nk6ughspa6hgsbt4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyADejrkCU3L50ds1dXonIlKAQiC1KZgG1Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "746422741834-hg6a95f3umu9j3k3nk6ughspa6hgsbt4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
